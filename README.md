@@ -1,2 +1,2 @@
 # Algorithmics-Course-2022
-Repository with practical tasks from Algorithmics course in University of Tartu
+Repository with practical tasks from Algorithmics course in University of Tartu. I feel sorry for everyone who's obliged to take this course. May this code ease your sufferings.
